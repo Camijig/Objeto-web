@@ -1,1 +1,5 @@
-
+{
+    "titulo": "Hola Camila",
+    "texto": "Este texto viene desde GitHub",
+    "imagen": "https://camijig.github.io/Objeto-web/banner.png"
+}
